@@ -29,9 +29,10 @@
 }
 
 #fileupload {
-    margin: 50px 50px 0 50px;
-    position: absolute;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
     top: 150px;
+    margin-left: 40%;
     color: white;
     z-index: 100;
     }
