@@ -31,8 +31,9 @@
 #fileupload {
     font-family: 'Roboto', sans-serif;
     font-size: 20px;
-    top: 150px;
     margin-left: 40%;
+    top: 150px;
+    position: absolute;
     color: white;
     z-index: 100;
     }
