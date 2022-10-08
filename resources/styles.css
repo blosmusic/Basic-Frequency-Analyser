@@ -19,6 +19,7 @@
     left: 0;
     width: 100%;
     height: 100%;
+    filter: blur(0.5px) contrast(1.5)
 }
 
 #audio1 {
@@ -26,3 +27,11 @@
     margin: 50px auto;
     display: block;
 }
+
+#fileupload {
+    margin: 50px 50px 0 50px;
+    position: absolute;
+    top: 150px;
+    color: white;
+    z-index: 100;
+    }
